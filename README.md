@@ -8,7 +8,7 @@ No application code. No dependencies beyond Python's `python-docx` for optional 
 
 ## Why This Exists
 
-I built this two weeks after getting laid off. Within 30 minutes of the call, I was designing the architecture. The system found me an interview within two weeks of going live. I open-sourced it because if it works for me, it should work for anyone.
+I built this the day I got laid off. Within 30 minutes of the call, I was designing the architecture. I got an interview within two weeks of my first application found with this team. I open-sourced it because if it works for me, it should work for anyone.
 
 ## How It Works
 
